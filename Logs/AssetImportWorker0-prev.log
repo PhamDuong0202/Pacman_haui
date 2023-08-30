@@ -1,0 +1,425 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.6f1 (c0fade0cc7e9) revision 12647134'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19045.3324; Version 2009; 64bit' Language: 'en' Physical Memory: 8013 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Mr.Duong/Documents/pacman/Pacman
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51139
+Successfully changed project path to: C:/Users/Mr.Duong/Documents/pacman/Pacman
+C:/Users/Mr.Duong/Documents/pacman/Pacman
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 66.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.6f1 (c0fade0cc7e9)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Mr.Duong/Documents/pacman/Pacman/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 with Max-Q Design (ID=0x1f9d)
+    Vendor:   NVIDIA
+    VRAM:     3962 MB
+    Driver:   30.0.15.1165
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56556
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001291 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 64.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.676 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002124 seconds.
+Begin MonoManager ReloadAssembly
+OnLevelWasLoaded was found on ScoreManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+OnLevelWasLoaded was found on GameManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.984 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2683 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.7 MB.
+System memory in use after: 98.9 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3137.
+Total: 2.342900 ms (FindLiveObjects: 0.442300 ms CreateObjectMapping: 0.126400 ms MarkObjects: 1.689300 ms  DeleteObjects: 0.083400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs/inky.prefab
+  artifactKey: Guid(bc6b2f74c0c842443b5d21543c3e5e16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/inky.prefab using Guid(bc6b2f74c0c842443b5d21543c3e5e16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c69e549b11a44282f529c403d9c6c4c5') in 0.139661 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Materials/pauseTexture.mat
+  artifactKey: Guid(b51dea1a8d627a344a7b50af88a8a0c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/pauseTexture.mat using Guid(b51dea1a8d627a344a7b50af88a8a0c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b63990ea7cca4ca3414bdda7062acd61') in 0.178043 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Prefabs/point200.prefab
+  artifactKey: Guid(1021bcdb358271649a6f4784d0be6d4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/point200.prefab using Guid(1021bcdb358271649a6f4784d0be6d4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4e92a58ad78fc1fbf23ac207756f951') in 0.028929 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Prefabs/blinky.prefab
+  artifactKey: Guid(9f090580268dde54d8def18b84c4dbab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/blinky.prefab using Guid(9f090580268dde54d8def18b84c4dbab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01d2dddd5688137666f952d765e225fd') in 0.018268 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Prefabs/pacdotMove.prefab
+  artifactKey: Guid(773d46b70fb21a04f8712639c14fbe58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/pacdotMove.prefab using Guid(773d46b70fb21a04f8712639c14fbe58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c5f6b0cd2b4983e5e64b2e23df692af') in 0.014659 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Prefabs/energizer.prefab
+  artifactKey: Guid(e6375b70d9e816446a9af3cedc9415e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/energizer.prefab using Guid(e6375b70d9e816446a9af3cedc9415e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2e712cfbc04bb7f7901a43d935b5c58') in 0.013718 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Prefabs/point1600.prefab
+  artifactKey: Guid(721f440a9bca3734886e0f0eec02996a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/point1600.prefab using Guid(721f440a9bca3734886e0f0eec02996a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aba8aacc906e3b17d14874296df29aa9') in 0.014150 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Prefabs/pinky.prefab
+  artifactKey: Guid(db15fdab6be0e104fbcf2c44afaad894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/pinky.prefab using Guid(db15fdab6be0e104fbcf2c44afaad894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '055fb2de53d654aa3afe727a4c5b162c') in 0.017655 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Prefabs/clyde.prefab
+  artifactKey: Guid(e51e4ed36b94fe24f8dc937c5aac9052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/clyde.prefab using Guid(e51e4ed36b94fe24f8dc937c5aac9052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e77cd117bab806f275d72fae62e715f2') in 0.023119 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Prefabs/point400.prefab
+  artifactKey: Guid(02f84da75a4aae3408e9ce0f5e5c4e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/point400.prefab using Guid(02f84da75a4aae3408e9ce0f5e5c4e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b4e5981278c63cf742f69dca3bd4fea') in 0.013505 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Prefabs/pacdot.prefab
+  artifactKey: Guid(1b3fd45832d3ec34b978f979ff9c97ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/pacdot.prefab using Guid(1b3fd45832d3ec34b978f979ff9c97ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b49ee28ea55ab1c529b6ed5d49afc291') in 0.012736 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Prefabs/point800.prefab
+  artifactKey: Guid(be74b0c0ca5e55c44b937b270558e243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/point800.prefab using Guid(be74b0c0ca5e55c44b937b270558e243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aee11d30f720478cd69950e40ece460') in 0.016570 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002914 seconds.
+OnLevelWasLoaded was found on GameManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+OnLevelWasLoaded was found on ScoreManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+Begin MonoManager ReloadAssembly
+OnLevelWasLoaded was found on GameManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+OnLevelWasLoaded was found on ScoreManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.15 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.287 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.76 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2677 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.6 MB.
+System memory in use after: 102.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3182.
+Total: 5.186200 ms (FindLiveObjects: 0.713200 ms CreateObjectMapping: 0.278200 ms MarkObjects: 4.172200 ms  DeleteObjects: 0.021300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002143 seconds.
+OnLevelWasLoaded was found on GameManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+OnLevelWasLoaded was found on ScoreManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+Begin MonoManager ReloadAssembly
+OnLevelWasLoaded was found on ScoreManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+OnLevelWasLoaded was found on GameManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.861 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2677 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.6 MB.
+System memory in use after: 102.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3185.
+Total: 8.914800 ms (FindLiveObjects: 0.671000 ms CreateObjectMapping: 0.191000 ms MarkObjects: 7.589000 ms  DeleteObjects: 0.448300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003963 seconds.
+OnLevelWasLoaded was found on GameManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+OnLevelWasLoaded was found on ScoreManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+Begin MonoManager ReloadAssembly
+OnLevelWasLoaded was found on GameManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+OnLevelWasLoaded was found on ScoreManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.147 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2677 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.6 MB.
+System memory in use after: 102.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3188.
+Total: 1.618800 ms (FindLiveObjects: 0.218700 ms CreateObjectMapping: 0.119900 ms MarkObjects: 1.268500 ms  DeleteObjects: 0.011100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1968.635308 seconds.
+  path: Assets/Sprites/blinky.png
+  artifactKey: Guid(abbb6cbccda92df4696cd2b8dfb0568e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/blinky.png using Guid(abbb6cbccda92df4696cd2b8dfb0568e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f73ba898d3563b330cbeec66e15e0d8') in 0.240064 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Sprites/maze.png
+  artifactKey: Guid(18e807be7caf21f42b5e6f638c7b7845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/maze.png using Guid(18e807be7caf21f42b5e6f638c7b7845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cd8b420e3e09b617fa30da5b5b195db') in 0.042971 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Sprites/pacdot.png
+  artifactKey: Guid(f4b47301214d6a745a6bbb0a4a8f1520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/pacdot.png using Guid(f4b47301214d6a745a6bbb0a4a8f1520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '000dab4a0ec7e5598cc73719106c67bf') in 0.049828 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000634 seconds.
+  path: Assets/Sprites/pacman.png
+  artifactKey: Guid(783850f7e3bb9bc4197e2b984dabe708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/pacman.png using Guid(783850f7e3bb9bc4197e2b984dabe708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c02eb3ec263b80e5f12709b6ed7d3fd3') in 0.093167 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Sprites/spritesheet.png
+  artifactKey: Guid(7bb59983fc1f4ac43a729c04d0a0e71b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/spritesheet.png using Guid(7bb59983fc1f4ac43a729c04d0a0e71b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '789ce39a65bc99e420f0088687364b94') in 0.212306 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.983021 seconds.
+  path: Assets/Fonts/atari full.ttf
+  artifactKey: Guid(093e796d1ac1559428a16cbfebe26dac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/atari full.ttf using Guid(093e796d1ac1559428a16cbfebe26dac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd1d34991997338ff4e1229db157a9b6') in 0.129545 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 168.938462 seconds.
+  path: Packages/com.unity.visualscripting
+  artifactKey: Guid(93868626a0cf5222c7337ca621f54253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualscripting using Guid(93868626a0cf5222c7337ca621f54253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4d99d9a8e1b61f770ae8bf90263141a') in 0.011945 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.439225 seconds.
+  path: Packages/com.unity.ide.vscode
+  artifactKey: Guid(1c61a04a5b7737c4d16673d64be4194e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.vscode using Guid(1c61a04a5b7737c4d16673d64be4194e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6eb59e90e7b94b511476370c7399373e') in 0.029005 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.851558 seconds.
+  path: Packages/com.unity.ide.visualstudio
+  artifactKey: Guid(9db636ca49aa246019dd93b7c8b689f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.visualstudio using Guid(9db636ca49aa246019dd93b7c8b689f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97ec95a5506f2bdeeee79941468489e5') in 0.023992 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.378620 seconds.
+  path: Packages/com.unity.ext.nunit
+  artifactKey: Guid(25a477c2f24db8778a4179421a32cc21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ext.nunit using Guid(25a477c2f24db8778a4179421a32cc21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de8b3f671dc9f0a57b867a67d4aae8de') in 0.031459 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.389508 seconds.
+  path: Packages/com.unity.ide.rider
+  artifactKey: Guid(ea5aa18a49e4f29d74984ea0ea11a238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.rider using Guid(ea5aa18a49e4f29d74984ea0ea11a238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38d02623396ab86594f3405d33b9714f') in 0.039748 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.347851 seconds.
+  path: Packages/com.unity.test-framework
+  artifactKey: Guid(6023f2b823fc19b4e4a90875281ff117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.test-framework using Guid(6023f2b823fc19b4e4a90875281ff117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b3fecfc8d873fe96244889d860a7252') in 0.027367 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.502719 seconds.
+  path: Packages/com.unity.ugui/package.json
+  artifactKey: Guid(319b8889f363f5947acf209c17a94149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ugui/package.json using Guid(319b8889f363f5947acf209c17a94149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2303eab830ceb169e07e6b830573085') in 0.074649 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.432479 seconds.
+  path: Assets/Scenes/credits.unity
+  artifactKey: Guid(eca5911d8e6773449abc08db79495f66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/credits.unity using Guid(eca5911d8e6773449abc08db79495f66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5be6087c41f80caae848d5e8953a78fe') in 0.040092 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003820 seconds.
+OnLevelWasLoaded was found on GameManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+OnLevelWasLoaded was found on ScoreManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+Begin MonoManager ReloadAssembly
+OnLevelWasLoaded was found on ScoreManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+OnLevelWasLoaded was found on GameManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.802 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2683 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.5 MB.
+System memory in use after: 106.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3297.
+Total: 2.127400 ms (FindLiveObjects: 0.217900 ms CreateObjectMapping: 0.116300 ms MarkObjects: 1.781000 ms  DeleteObjects: 0.011600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.879481 seconds.
+  path: Assets/Scenes/menu.unity
+  artifactKey: Guid(40dd9ee221b736047a07a07ee0dc3e5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/menu.unity using Guid(40dd9ee221b736047a07a07ee0dc3e5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4668ba68aa7573691115e06636203dc7') in 0.054552 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.459798 seconds.
+  path: Assets/Scenes/scores.unity
+  artifactKey: Guid(4c12986e248057440b5330fe60d951f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/scores.unity using Guid(4c12986e248057440b5330fe60d951f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60594151bb16d5e3584a630c09ba90c5') in 0.014184 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004412 seconds.
+OnLevelWasLoaded was found on GameManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+OnLevelWasLoaded was found on ScoreManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+Begin MonoManager ReloadAssembly
+OnLevelWasLoaded was found on GameManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+OnLevelWasLoaded was found on ScoreManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.02 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.863 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2677 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.3 MB.
+System memory in use after: 106.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 1.895700 ms (FindLiveObjects: 0.224100 ms CreateObjectMapping: 0.113300 ms MarkObjects: 1.546300 ms  DeleteObjects: 0.011100 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
